@@ -1,5 +1,5 @@
 let username = prompt("what is your name");
-document.getElementById("welli").innerHTML="welcome" + " "  + username;
+document.getElementById("welli").innerHTML="Welcome" + " "  + username;
 
 
 function openBar(){
